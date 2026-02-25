@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **ReactJS, NodeJS**
 
-- 👨‍💻 All of my projects are available at [rajnasit-dev.github.io/portfolio](rajnasit-dev.github.io/portfolio)
+- 👨‍💻 All of my projects are available at [https://rajnasit-dev.github.io/portfolio/](https://rajnasit-dev.github.io/portfolio/)
 
 - 💬 Ask me about **ReactJS, NodeJS**
 
